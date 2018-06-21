@@ -1,5 +1,4 @@
 .contentMine {
-    border: 2px solid red;
     margin: 0px auto;
     width: 100%;
 }
@@ -7,9 +6,6 @@
     height: 500px;
     width: 90%;
     margin: auto;
-    border: 2px solid blue;
-}
-.triviaContent{
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -17,6 +13,6 @@
 body{
     background-image: url("../images/twistedsister.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-}
+    background-size: cover;   
+  }
+
